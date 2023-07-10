@@ -1,5 +1,3 @@
 # portfolio
 
 Full stack portfolio
-
-##
